@@ -29,7 +29,7 @@
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
       "value": "-100"
     },
-    "DATABASE_URI":{
+    "DATABASE_URL":{
       " description ": "Ansh", 
       " value ": ""
     }, 
